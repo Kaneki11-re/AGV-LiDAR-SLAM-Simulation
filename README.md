@@ -226,7 +226,5 @@ Produces:
 
 ## 20. Author / License
 
-**Author:** _<Your Name>_
-**Contact:** _<your email or GitHub profile>_
-
+**Author:** _<Kaneki>_
 This project is licensed under the [MIT License](LICENSE).
