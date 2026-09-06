@@ -3,6 +3,9 @@ build/
 install/
 log/
 
+# Windows metadata
+*:Zone.Identifier
+
 # ROS logs
 .ros/
 
